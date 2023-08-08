@@ -1,6 +1,7 @@
 'use strict';
 
-const Files = {
+const 
+    Files = {
 
     // cache: supported extension for each type of file
     supported: {
